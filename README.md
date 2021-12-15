@@ -1,2 +1,2 @@
-# git_recipes
+# odin_recipes
 1st odin project
